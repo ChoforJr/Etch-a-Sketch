@@ -22,7 +22,7 @@ function squaredGrid (gridNumbers){
     } 
     container.addEventListener('mouseover', e => {
       var target = e.target
-    
+      
       if (target !== container) {
         target.classList.add('permahover');
       }
