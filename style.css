@@ -20,9 +20,12 @@
   .container {
     border: solid 1px black;
     margin-top: 20px;
-    width: 485px;
-    height: 485px;
+    width: 500px;
+    height: 500px;
     background-color: #afa9a9;
+  }
+  .permahover {
+    background: red;
   }
 
 
